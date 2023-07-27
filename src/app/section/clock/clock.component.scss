@@ -1,0 +1,27 @@
+.title {
+    background: white;
+    width: 100%;
+    height: 40vh;
+    padding: 5vh 0;
+    font-size: 38px;
+    color: black;
+}
+
+.display {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    background-color: #414141;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 50px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
